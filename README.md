@@ -217,14 +217,6 @@ conda remove -n neurospike --all
 
 ---
 
-## Acknowledgments
-
-- IIT Madras, Department of Electrical Engineering
-- IIT Madras, Department of Computer Science and Engineering
-- Brian2 Development Team
-
----
-
 ## Contact
 
 For questions or collaboration opportunities, please contact:

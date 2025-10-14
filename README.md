@@ -228,8 +228,8 @@ conda remove -n neurospike --all
 ## Contact
 
 For questions or collaboration opportunities, please contact:
-- Project Lead: [email@example.com]
-- Repository: [https://github.com/yourusername/neurospike](https://github.com/yourusername/neurospike)
+- Project Lead: [ee24b044@smail.iitm.ac.in]
+- Repository: [https://github.com/a-jacked-nerd/neurospike](https://github.com/a-jacked-nerd/neurospike)
 
 ---
 

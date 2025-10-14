@@ -4,16 +4,24 @@ A brain-inspired learning framework combining Spiking Neural Networks (SNNs), co
 
 ## Overview
 
-NEUROSPIKE bridges neuroscience, machine learning, and neuromorphic computing by:
-- Simulating biologically plausible models (predictive coding) using Brian2
-- Implementing LIF (Leaky Integrate-and-Fire) neuron circuits on FPGAs with Verilog
-- Exploring energy-efficient, hardware-accelerated neural computation
+NEUROSPIKE bridges neuroscience, machine learning, and neuromorphic computing by implementing **predictive coding** - a brain-inspired learning framework where the brain constantly predicts sensory input and learns from prediction errors. Our project:
+- Simulates hierarchical predictive coding networks using biologically plausible spiking neurons in Brian2
+- Implements LIF (Leaky Integrate-and-Fire) neuron circuits on FPGAs with Verilog for real-time predictive processing
+- Explores energy-efficient, hardware-accelerated neural computation inspired by cortical microcircuits
+
+### What Makes NEUROSPIKE Unique?
+
+Unlike traditional deep learning approaches, predictive coding offers:
+- **Biological Plausibility**: Mirrors how the brain processes information through bidirectional prediction and error signals
+- **Local Learning Rules**: Neurons learn using only locally available information, enabling distributed computation
+- **Energy Efficiency**: Sparse spiking activity reduces computational overhead, ideal for neuromorphic hardware
+- **Hierarchical Inference**: Multi-level representations emerge naturally through prediction error minimization
 
 ## Team
 
-- **Project Lead**: EE-23b, IIT Madras
-- **Faculty Advisor**: CSE Professor, IIT Madras
-- **Team Members**: 4 researchers
+- **Project Lead**: Manoj N H, EE-23b, IIT Madras
+- **Faculty Advisor**: Gopalakrishnan Srinivasan, CSE Professor, IIT Madras
+- **Team Members**: 4 Project members (Aryan, Avisha, Keshav, Natesan)
 
 ---
 
@@ -220,7 +228,7 @@ conda remove -n neurospike --all
 ## Contact
 
 For questions or collaboration opportunities, please contact:
-- Project Lead: [ee23b044@smail.iitm.ac.in]
+- Project Lead: [email@example.com]
 - Repository: [https://github.com/yourusername/neurospike](https://github.com/yourusername/neurospike)
 
 ---
